@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.LuisRecognizer",
+  "id": "LUIS_SmashChatBotV1",
+  "applicationId": "=settings.luis.SmashChatBotV1_en_us_lu.appId",
+  "version": "=settings.luis.SmashChatBotV1_en_us_lu.version",
+  "endpoint": "=settings.luis.endpoint",
+  "endpointKey": "=settings.luis.endpointKey"
+}

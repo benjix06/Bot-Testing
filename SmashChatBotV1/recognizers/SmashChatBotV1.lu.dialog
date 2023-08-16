@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "LUIS_SmashChatBotV1",
+  "recognizers": {
+    "en-us": "SmashChatBotV1.en-us.lu",
+    "": "SmashChatBotV1.en-us.lu"
+  }
+}
